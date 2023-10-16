@@ -6,9 +6,9 @@ use App\Controllers\BaseController;
 
 class Penerbitt extends BaseController
 {
-    public function id()
+    public function id() 
     {
-        //
+        
     }
     public function penerbit()
     {
